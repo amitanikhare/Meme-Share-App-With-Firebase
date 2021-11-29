@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984101647280",
+    "project_id": "meme-share-df4c1",
+    "storage_bucket": "meme-share-df4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984101647280:android:9d45b823ace77e7d245c75",
+        "android_client_info": {
+          "package_name": "com.amita.memeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984101647280-o2fcll3maqhm6k69khib00444r2hmlho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHG20-Pj_2XX0Keds4mXWi7q1WVFqeACE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984101647280-o2fcll3maqhm6k69khib00444r2hmlho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

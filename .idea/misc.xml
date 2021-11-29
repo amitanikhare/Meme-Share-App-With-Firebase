@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/buttons.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/comment_edit.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/edit.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/edittest.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/edittext.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_add_post.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_baseline_notifications_active.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_camera.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_clear.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_comment.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_favourite.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_feed.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_following.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_like.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_liked.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_notifications.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_options.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_pick_image.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_profile.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_save.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_saved.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_send.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/ic_share.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/drawable/profile_image.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/font/alfa_slab_one.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/font/montserrat.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_comment.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_log_in.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_notification.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_post.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_post_details.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_search_users.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_show_list.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/fragment_favourite2.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/fragment_feed.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/fragment_following.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/ic_camera.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/item_comment.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/notification_item.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/photos_list.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/post_item.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/show_list.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/layout/user.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/menu/bottom_navigation.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/menu/options.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/mipmap-anydpi-v26/ic_launcher_app.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MemeShare/app/src/main/res/xml/file_paths.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
